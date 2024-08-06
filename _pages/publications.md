@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Publications"
+title: "aa"
 permalink: /publications/
 author_profile: true
 ---
