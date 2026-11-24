@@ -60,21 +60,11 @@
 
   }
 
+  // Return to the top when opening or refreshing the homepage.
+
   function resetScroll() {
 
-    if (!window.location.hash) {
-
-      window.scrollTo({
-
-        top: 0,
-
-        left: 0,
-
-        behavior: 'instant'
-
-      });
-
-    }
+    window.scrollTo(0, 0);
 
   }
 
